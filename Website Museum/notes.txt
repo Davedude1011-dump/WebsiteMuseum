@@ -1,0 +1,4 @@
+https://www.nationalgallery.org.uk 
+Inspiration for my site.
+
+<section class="parallax bg1"></section>
